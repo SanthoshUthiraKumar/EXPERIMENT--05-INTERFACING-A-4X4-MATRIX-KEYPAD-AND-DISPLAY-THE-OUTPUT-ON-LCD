@@ -178,7 +178,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 ## CIRCUIT DIAGRAM 
- ![PMC5CD1](https://github.com/SanthoshUthiraKumar/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119477975/c5b15d27-7a97-483e-8fe0-2e5d09942ec1)
+![PMC5CD3](https://github.com/SanthoshUthiraKumar/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119477975/d63a87be-21c8-47c1-bffa-fd46e184af25)
 
 
 ## STM 32 CUBE PROGRAM :
@@ -468,7 +468,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![PMC5Output6](https://github.com/SanthoshUthiraKumar/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119477975/c354f6ed-888a-4c67-82c3-98373680e80d)
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![PMC5CD](https://github.com/SanthoshUthiraKumar/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119477975/fae387cc-ede3-4e7f-b9ad-12e605de4b23)
+![PMC5CD2](https://github.com/SanthoshUthiraKumar/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119477975/471bcfcb-3e39-45dc-808b-c9dd4d60bb82)
 
  
 ## Result :
